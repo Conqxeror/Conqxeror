@@ -22,4 +22,4 @@ Hi there 👋<br>I'm Wali Mohammad Kadri, a MERN stack web developer and freelan
 ![](https://github-contributor-stats.vercel.app/api?username=Conqxeror&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-![](https://komarev.com/ghpvc/?username=Conqxeror&label=PROFILE+VIEWS)
+[![](https://visitcount.itsvg.in/api?id=Conqxeror&icon=0&color=0)](https://visitcount.itsvg.in)
